@@ -388,6 +388,11 @@ footer span {
   }
 
   /* Call to Action Section */
+
+  #cta h3{
+    font-size: 1.5em;
+  }
+
   #cta .btn {
     width: 80%;
   }
